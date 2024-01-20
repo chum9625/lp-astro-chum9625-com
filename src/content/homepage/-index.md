@@ -42,8 +42,7 @@ features:
     bulletpoints:
       - "HTML／CSS（Webクリエイター能力認定試験エキスパート保有）"
       - "Git"
-      - "Photoshop／Illustrator"
-      - "PremierePro（業務経験は無し／Adobeクリエイティブカレッジ1.5期生修了）"
+      - "Photoshop／Illustrator／PremierePro（Adobeクリエイティブカレッジ修了）"
     button:
       enable: false
       label: ""
