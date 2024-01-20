@@ -41,7 +41,6 @@ features:
     content: "専門的なスキル"
     bulletpoints:
       - "HTML／CSS（Webクリエイター能力認定試験エキスパート保有）"
-      - "JavaScript／PHP（実装のみ）"
       - "Git"
       - "Photoshop／Illustrator"
       - "PremierePro（業務経験は無し／Adobeクリエイティブカレッジ1.5期生修了）"
