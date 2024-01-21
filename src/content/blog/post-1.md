@@ -5,32 +5,73 @@ description: "this is meta description"
 date: 2024-01-21T16:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Blog", "Tech"]
-author: "chumt"
+author: "25master"
 tags: ["astro", "github"]
 draft: false
 ---
 
-Astroは、効率的かつ高速に静的なウェブサイトを構築するためのツールです。以下は、Astroを使用して素早くランディングページを作成する手順です。
+Astroは、効率的かつ高速に静的なウェブサイトを構築するためのツールです。
+このサイトは Astro を使用して構築されたポートフォリオテンプレートをカスタマイズして作成しています。
+以下に、その手順を記録します。
 
 ## 1. Astroのインストール
 
-まず、以下のコマンドを使ってAstroをインストールしましょう。
+1. [公式サイトのテーマ](https://astro.build/themes/)からお気に入りを選ぶ。
+2. Get started をクリックし、Githubのリポジトリからテーマを clone する。
 
 ```bash
-npm install -g astro
+git clone https://github.com/zeon-studio/astroplate.git your-project-name
+
+cd your-project-name
+
+npm install
 ```
 
-## 2. プロジェクトの作成
+## 2. デプロイ先の準備
 
-新しいプロジェクトディレクトリを作成し、そこに移動します。
+1. Cloudflare pages を使って運用するため、アカウントを作成する。
+2. Github のリポジトリを作成する。
+
+## 3. 開発用ローカルサーバー起動
+
+- 初回の npm run dev は起動不可。
+- package.json を確認し、"scripts"に yarn が設定されているので、 npm run に変更する。
 
 ```bash
-mkdir my-astro-lp
-cd my-astro-lp
+npm run dev
+
+local http//localhost:4321/
 ```
-## AstroサイトをCloudflare Pagesにデプロイする
+## 4. Github に push
 
-[公式サイト](https://docs.astro.build/ja/guides/deploy/cloudflare/)
+- リモートリポジトリを書き換えてから push。
 
+```bash
+git remote -v 
 
-❣️プロジェクトの要件やデザインに応じて、さらに詳細なカスタマイズは必要。
+origin https://github.com/zeon-studio/astroplate.git (fetch)
+origin https://github.com/zeon-studio/astroplate.git (push)
+
+git remote set-url origin https://github.com/chum9625/my-repository/
+
+git add .
+git commit -m "first commit"
+git push -u origin main
+```
+
+## 5. AstroサイトをCloudflare Pagesにデプロイする
+
+- [Cloudflare公式](https://docs.astro.build/ja/guides/deploy/cloudflare/)
+- Wranglerを使ってデプロイする。
+
+```bash
+npm install -g wrangler 
+
+wrangler login
+
+npm run build
+
+npx wrangler pages deploy dist
+```
+
+❣️プロジェクトの要件やデザインに応じ、さらに詳細なカスタマイズは必要。

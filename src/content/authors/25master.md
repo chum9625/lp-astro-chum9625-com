@@ -1,5 +1,5 @@
 ---
-title: Chumt
+title:  25master
 email: dammy@xxx.com
 image: "/images/avatar.png"
 description: chumt profile
@@ -14,4 +14,4 @@ social:
 
 ---
 
-Webコーダー兼アマチュア二輪レーサー。フロントエンド技術と二輪スポーツ走行の鍛錬を続けている。効率的なものを好み、日ごろから効率化を意識している。
+Webコーダー兼アマチュア二輪レーサー。フロントエンド技術と二輪スポーツ走行の鍛錬を続けている。無駄を省き効率よくすること、整理整頓が好き。

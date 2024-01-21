@@ -34,7 +34,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
@@ -42,6 +42,6 @@
   "metadata": {
     "meta_author": "ChumTech",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Webengineer"
+    "meta_description": "Web developer"
   }
 }

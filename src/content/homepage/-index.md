@@ -16,7 +16,7 @@ features:
     content: "提供できるもの"
     bulletpoints:
       - "Webサイト制作"
-      - "あらゆるデバイスに対応したWebページ"
+      - "レスポンシブデザイン"
       - "SEO最適化"
       - "Pagespeed Insights（Googleが提供する無料のページパフォーマンス計測ツール）でハイスコアを目指します"
     button:
@@ -41,8 +41,8 @@ features:
     content: "専門的なスキル"
     bulletpoints:
       - "HTML／CSS（Webクリエイター能力認定試験エキスパート保有）"
-      - "Git"
       - "Photoshop／Illustrator／PremierePro（Adobeクリエイティブカレッジ修了）"
+      - "Git"
     button:
       enable: false
       label: ""
