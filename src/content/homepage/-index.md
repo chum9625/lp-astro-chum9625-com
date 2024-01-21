@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "ChumTech Webengineer"
-  content: "フリーランスで活動しています"
+  title: "ChumTech Web developer"
+  content: "日々鍛錬"
   image: "/images/banner.png"
   button:
     enable: false

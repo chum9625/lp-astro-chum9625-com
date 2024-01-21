@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "chumt"
 meta_title: "About"
-description: "this is meta description"
+description: "chumtについて"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Webコーダーとして量販店のECサイト制作に携わっています。チームではイベント行事やマーケティング施策に基づいた既存ページの改修（HTML , CSS , JavaScript , たまにWordPress）、新規LP制作（jspインクルードページ）、バナー制作（ai , psd）を担当。その傍ら、フロントエンド技術を使ったWeb制作に取り組んでいます。猫好きの二輪アマチュアレーサーです。

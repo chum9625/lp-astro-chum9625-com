@@ -14,16 +14,8 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
           "name": "Blog",
           "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
         },
         {
           "name": "Categories",
@@ -32,10 +24,6 @@
         {
           "name": "Tags",
           "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
         }
       ]
     }
