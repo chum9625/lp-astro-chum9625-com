@@ -1,8 +1,8 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "バリュードメインからcloudflareのカスタムドメインに接続"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-01-22T19:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Technology", "Data"]
 author: "Sam Wilson"

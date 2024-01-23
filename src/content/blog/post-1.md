@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-01-21T16:03:00Z
 image: "/images/image-placeholder.png"
-categories: ["Blog", "Tech"]
+categories: ["memo", "Tech"]
 author: "25master"
 tags: ["astro", "github"]
 draft: false
@@ -74,4 +74,4 @@ npm run build
 npx wrangler pages deploy dist
 ```
 
-❣️プロジェクトの要件やデザインに応じ、さらに詳細なカスタマイズは必要。
+❣️プロジェクトの要件やデザインに応じ、さらに詳細なカスタマイズをしていく。
