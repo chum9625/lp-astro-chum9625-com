@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-01-21T16:03:00Z
 image: "/images/image-placeholder.png"
-categories: ["memo", "Tech"]
+categories: ["Memo", "Tech"]
 author: "25master"
 tags: ["astro", "github"]
 draft: false
@@ -79,4 +79,18 @@ npm run build
 npx wrangler pages deploy dist
 ```
 
-❣️プロジェクトの要件やデザインに応じ、さらに詳細なカスタマイズをしていく。
+## 6. サイト更新
+
+さらに詳細なカスタマイズやブログ更新後は、build & push & deploy を実行。
+
+```bash
+npm run build
+
+git add .
+
+git commit -m "コメント"
+
+git push origin HEAD
+
+npx wrangler pages deploy dist
+```
