@@ -46,9 +46,12 @@ jobs:
           README.md
           **.json
 ```
+### stepsで使用している２つのアクションは最新にする
+
 - [チェックアウトアクション](https://github.com/actions/checkout)
 - [FTPデプロイアクション](https://github.com/SamKirkland/FTP-Deploy-Action)
-※上記２つのアクションは常に最新を使う
+
+
 
 ## GitHub Secretsを設定する
 
