@@ -7,7 +7,7 @@ image: "/images/blog-2024032601.png"
 categories: ["Memo", "Tech"]
 author: "25master"
 tags: ["github-actions", "github" , "ci/cd"]
-draft: true
+draft:  false
 ---
 
 FTPアップロードをGitHub Actionsを使って自動化する手順を記録。
