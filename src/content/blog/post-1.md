@@ -3,7 +3,7 @@ title: "Astroでポートフォリオを兼ねたブログを作る"
 meta_title: ""
 description: "this is meta description"
 date: 2024-01-21T16:03:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog-2024012201.png"
 categories: ["Memo", "Tech"]
 author: "25master"
 tags: ["astro", "github"]
