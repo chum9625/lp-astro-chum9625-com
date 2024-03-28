@@ -46,7 +46,7 @@ jobs:
           README.md
           **.json
 ```
-### stepsで使用している２つのアクションのバージョン配布元
+### stepsで使用している２つのアクションの配布元
 
 - [チェックアウトアクション](https://github.com/actions/checkout)
 - [FTPデプロイアクション](https://github.com/SamKirkland/FTP-Deploy-Action)
