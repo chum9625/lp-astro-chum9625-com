@@ -32,7 +32,7 @@ jobs:
       uses: actions/checkout@v4.0.0
 
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
@@ -46,7 +46,7 @@ jobs:
           README.md
           **.json
 ```
-### stepsで使用している２つのアクションは最新にする
+### stepsで使用している２つのアクションのバージョン配布元
 
 - [チェックアウトアクション](https://github.com/actions/checkout)
 - [FTPデプロイアクション](https://github.com/SamKirkland/FTP-Deploy-Action)
@@ -55,9 +55,11 @@ jobs:
 
 ## GitHub Secretsを設定する
 
-1. Setting＞Secrets and variables＞Actions の「New repository secret」ボタンをクリック。
-2. キー名（FTP_SERVERなど）と設定値を登録する。
+1. Setting＞Secrets and variables＞Actions を展開する
+2. Repository secrets セクションの「New repository secret」ボタンをクリック
+3. keyの値（FTP_SERVERなど）を登録
 
 ## GitHub Actionを動作させる
 
-developブランチで開発をし、mainブランチにプルリクしてマージすることで発動。
+mainブランチにpushすると発動する。  
+通常はdevelopブランチで開発をし、区切りのよいところでmainブランチにプルリク＆マージする方法でもOK。
