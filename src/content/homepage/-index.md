@@ -11,40 +11,36 @@ banner:
 
 # Features
 features:
-  - title: "What does ChumTech do?"
-    image: "/images/service-1.png"
-    content: "提供できるもの"
+  - title: "Demo1"
+    image: "/images/demo-1col-1.jpg"
+    content: "静的サイト"
     bulletpoints:
-      - "Webサイト制作"
+      - "プロフィールサイト"
       - "レスポンシブデザイン"
-      - "SEO最適化"
-      - "Pagespeed Insights（Googleが提供する無料のページパフォーマンス計測ツール）でハイスコアを目指します"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Details"
+      link: "/demo"
 
-  - title: "What I'm working on"
+  - title: "Demo2"
     image: "/images/service-2.png"
-    content: "取り組んでいるもの"
+    content: "WordPressテーマ開発"
     bulletpoints:
-      - "フレームワークを使った効率的なサイト制作"
-      - "WordPressテーマ開発"
-      - "サイト運用サポート"
+      - "個人経営の美容サロンサイト（架空）"
+      - "WordPressサイト"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Details"
+      link: "/demo"
 
-  - title: "Specialized skills"
-    image: "/images/service-3.png"
-    content: "専門的なスキル"
+  - title: "Demo3"
+    image: "/images/service-1.png"
+    content: "WordPressテーマ開発"
     bulletpoints:
-      - "HTML／CSS（Webクリエイター能力認定試験エキスパート保有）"
-      - "Photoshop／Illustrator／PremierePro（Adobeクリエイティブカレッジ修了）"
-      - "Git"
+      - "保護猫カフェのサイト（架空）"
+      - "WordPressサイト"
     button:
       enable: false
-      label: ""
-      link: ""
+      label: "Details"
+      link: "/demo"
 ---

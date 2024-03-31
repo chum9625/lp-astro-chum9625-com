@@ -1,9 +1,33 @@
 ---
-title: "25master"
+title: "master G"
 meta_title: "About"
 description: "25masterについて"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Webデザイナー＆コーダーとして量販店のECサイト制作に携わっています。チームではイベント行事やマーケティング施策に基づいた既存ページの改修（HTML , CSS , JavaScript , たまにWordPress）、新規LP制作（jspインクルードページ）、バナー制作（ai , psd）を担当。その傍ら、フロントエンド技術を使ったWeb制作に取り組んでいます。プライベートは猫大好き二輪アマチュアレーサーです。
+Web developer
+
+### What does ChumTech do?
+-- 提供できるもの --
+
+Webサイト制作、バナー制作
+
+---
+
+### What I'm working on
+
+-- 取り組んでいるもの --
+
+フレームワークを使った効率的なサイト制作、WordPressテーマ開発
+
+---
+
+### Specialized skills
+-- 専門的なスキル --
+
+HTML／CSS（Webクリエイター能力認定試験エキスパート保有）  
+Photoshop／Illustrator／PremierePro（Adobeクリエイティブカレッジ修了）  
+Git／JavaScript（ライブラリ実装）
+
+ ![image](/images/skills.png)

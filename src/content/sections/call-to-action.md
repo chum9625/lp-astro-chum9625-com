@@ -1,10 +1,10 @@
 ---
-enable: false
-title: "Ready to build your next project with Astro?"
-image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+enable: true
+title: "Demo page is constantly being updated."
+image: "/images/service-3.png"
+description: "デモページは随時更新中。"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Details"
+  link: "/demo"
 ---
