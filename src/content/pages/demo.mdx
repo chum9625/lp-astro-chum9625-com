@@ -35,11 +35,9 @@ draft: false
 </Tab>
 </Tabs>
 
----
-
 ###  Originality
 
-<Accordion client:load title="コーディングで工夫したこと">
+<Accordion client:load title="コーディングのポイント">
 
 - CSSはスマートフォンファーストでコーディングしました。（ブレイクポイント601px以上でPC表示）
 - スマートフォンの初期画面表示はメニューとKVがちょうど収まるようにビューポートを指定しました。
@@ -48,19 +46,16 @@ draft: false
 
 </Accordion>
 
-<Accordion client:load title="イメージ加工で工夫したこと">
+<Accordion client:load title="デザインのポイント">
 
-- 光の装飾を各画像に追加。
-
-in the process of being adjusted
+- デザインの参考用に光の装飾を画像毎に追加しています。
 
 
-| #   |    First     |     Last     |       Handle |
-| :-- | :----------: | :----------: | -----------: |
-| 1   | Row:1 Cell:1 | Row:1 Cell:2 | Row:1 Cell:3 |
-| 2   | Row:2 Cell:1 | Row:2 Cell:2 | Row:2 Cell:3 |
-| 3   | Row:3 Cell:1 | Row:3 Cell:2 | Row:3 Cell:3 |
-
+| 加工前 | 加工後 |
+| :------ | :------ |
+| ![image](/images/demo1-gardening1-org.jpg) | ![image](/images/demo1-gardening1.jpg) |
+| ![image](/images/demo1-gardening2-org.jpg) | ![image](/images/demo1-gardening2.jpg) |
+| ![image](/images/demo1-gardening3-org.jpg) | ![image](/images/demo1-gardening3.jpg) |
 
 </Accordion>
 
@@ -70,10 +65,54 @@ in the process of being adjusted
 
 in the process of being adjusted
 
+---
+
 #  Demo3
 
-in the process of being adjusted
+[https://www.chum9625.com/](https://www.chum9625.com/)
 
+<Notice type="note">GitHubでソースコード管理し、Cloudflare Pagesに Wrangler CLIを使ってログイン〜デプロイまで完結します。</Notice>
+
+### Details
+
+<Tabs client:load>
+
+<Tab name="概要">
+JavaScriptフレームワーク**Astro**で制作したプロフィールサイトです。
+</Tab>
+
+<Tab name="言語・ツール・技術">
+- HTML / CSS / SCSS
+- Visual Studio code
+- Photoshop / Illustrator
+- GitHub
+- Cloudflare Pages
+</Tab>
+
+<Tab name="制作期間">
+構築は1日（現在も更新中です）
+</Tab>
+</Tabs>
+
+###  Originality
+
+<Accordion client:load title="コーディングのポイント">
+
+- アコーディオン内に設置したテーブルがオーバーフローしたため、scssコードを変更しました。
+
+``` scss
+    // @apply max-h-0 overflow-hidden px-8 py-0;
+    @apply max-h-0 overflow-auto px-8 py-0;
+```
+
+</Accordion>
+
+<Accordion client:load title="デザインのポイント">
+
+- オリジナル画像のダークモード用を制作しました。
+
+
+</Accordion>
 
 ---
 <Button label="Back To Home" link="/" style="solid" />

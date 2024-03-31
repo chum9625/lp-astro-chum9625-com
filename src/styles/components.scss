@@ -126,7 +126,8 @@
     @apply ml-auto h-[.8em] w-[.8em] rotate-[-90deg] transition-transform duration-200;
   }
   &-content {
-    @apply max-h-0 overflow-hidden px-8 py-0;
+    // @apply max-h-0 overflow-hidden px-8 py-0;
+    @apply max-h-0 overflow-auto px-8 py-0;
   }
   &.active {
     .accordion-icon {

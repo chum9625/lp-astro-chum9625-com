@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Demo1"
     image: "/images/demo-1col-1.jpg"
-    content: "静的サイト"
+    content: "静的サイト直打ち"
     bulletpoints:
       - "プロフィールサイト"
       - "レスポンシブデザイン"
@@ -26,7 +26,7 @@ features:
     image: "/images/service-2.png"
     content: "WordPressテーマ開発"
     bulletpoints:
-      - "個人経営の美容サロンサイト（架空）"
+      - "保護猫カフェのサイト"
       - "WordPressサイト"
     button:
       enable: false
@@ -35,10 +35,10 @@ features:
 
   - title: "Demo3"
     image: "/images/service-1.png"
-    content: "WordPressテーマ開発"
+    content: "フレームワーク活用"
     bulletpoints:
-      - "保護猫カフェのサイト（架空）"
-      - "WordPressサイト"
+      - "このサイト"
+      - " Astroサイト"
     button:
       enable: false
       label: "Details"
