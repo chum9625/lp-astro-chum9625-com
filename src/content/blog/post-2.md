@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2024-03-26T20:19:00Z
 image: "/images/blog-2024032601.png"
 categories: ["Memo", "Tech"]
-author: "25master"
+author: "master G"
 tags: ["github-actions", "github" , "ci/cd"]
 draft:  false
 ---

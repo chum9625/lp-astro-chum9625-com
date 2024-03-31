@@ -1,7 +1,7 @@
 ---
 title: "master G"
 meta_title: "About"
-description: "25masterについて"
+description: "master G について"
 image: "/images/avatar.png"
 draft: false
 ---

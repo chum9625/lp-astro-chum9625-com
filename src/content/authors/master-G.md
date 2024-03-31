@@ -1,8 +1,8 @@
 ---
-title:  25master
+title:  master G
 email: dammy@xxx.com
 image: "/images/avatar.png"
-description: chumt profile
+description: master G profile
 social:
   - name: github
     icon: FaGithub
