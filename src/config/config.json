@@ -24,11 +24,11 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Modified by [ChumTech](https://chum9625.com)"
+    "copyright": "Modified by [ChumTech](https://www.chum9625.com)"
   },
 
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
     "link": "https://github.com/zeon-studio/astroplate"
   },
