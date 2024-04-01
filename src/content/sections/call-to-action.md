@@ -5,6 +5,6 @@ image: "/images/service-3.png"
 description: "デモページは随時更新中。"
 button:
   enable: true
-  label: "Details"
-  link: "/demo"
+  label: "Portfolio"
+  link: "/portfolio"
 ---

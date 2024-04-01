@@ -5,7 +5,7 @@ banner:
   content: "日々鍛錬"
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "GitHub"
     link: "https://github.com/chum9625"
 
@@ -18,9 +18,9 @@ features:
       - "プロフィールサイト"
       - "レスポンシブデザイン"
     button:
-      enable: false
-      label: "Details"
-      link: "/demo"
+      enable: true
+      label: "Go to site"
+      link: "https://demo.chum9625.com/1col-1/"
 
   - title: "Demo2"
     image: "/images/service-2.png"
@@ -40,7 +40,7 @@ features:
       - "このサイト"
       - " ブログ兼ポートフォリオサイト"
     button:
-      enable: false
-      label: "Details"
-      link: "/demo"
+      enable: true
+      label: "Go to site"
+      link: "/"
 ---
