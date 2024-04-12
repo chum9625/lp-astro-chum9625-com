@@ -19,7 +19,7 @@ features:
       - "レスポンシブデザイン"
     button:
       enable: true
-      label: "Go to site"
+      label: "Details"
       link: "https://demo.chum9625.com/1col-1/"
 
   - title: "Demo2"
@@ -41,6 +41,6 @@ features:
       - " ブログ兼ポートフォリオサイト"
     button:
       enable: true
-      label: "Go to site"
+      label: "Details"
       link: "/"
 ---
