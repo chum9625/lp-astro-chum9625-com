@@ -31,7 +31,7 @@ features:
     button:
       enable: false
       label: "Details"
-      link: "/demo"
+      link: "/portfolio#demo2"
 
   - title: "Demo3"
     image: "/images/demo3.jpg"
