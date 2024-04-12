@@ -20,7 +20,7 @@ features:
     button:
       enable: true
       label: "Details"
-      link: "https://demo.chum9625.com/1col-1/"
+      link: "/portfolio#demo1"
 
   - title: "Demo2"
     image: "/images/service-2.png"
@@ -42,5 +42,5 @@ features:
     button:
       enable: true
       label: "Details"
-      link: "/"
+      link: "/portfolio#demo3"
 ---
