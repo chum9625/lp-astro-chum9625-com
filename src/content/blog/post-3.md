@@ -1,23 +1,33 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "robots.txt の書き方"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Software"]
-author: "sam-wilson"
-tags: ["software", "tailwind"]
-draft: true
+description: "robots.txt の書き方"
+date: 2024-04-14T09:45:00Z
+image: ""
+categories: ["Memo", "Tech"]
+author: "master G"
+tags: ["seo"]
+draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+robots.txt：Webサイトを巡回するクローラーの動作を制御するために記述するテキストファイルのこと。
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+下記コードを記述したrobots.txtをサーバーにアップする。
 
-## Creative Design
+##  基本の記述
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+```bash
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+User-agent: *
+Disallow:
+```
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## クロールを制限する記述例
+
+```bash
+
+User-agent: *
+Allow: /
+
+Disallow: /api/*
+```

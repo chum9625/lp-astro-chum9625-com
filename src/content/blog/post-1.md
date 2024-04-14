@@ -1,7 +1,7 @@
 ---
 title: "Astroでポートフォリオを兼ねたブログを作る"
 meta_title: ""
-description: "this is meta description"
+description: "Astroでポートフォリオを兼ねたブログを作る"
 date: 2024-01-21T16:03:00Z
 image: "/images/blog-2024012201.png"
 categories: ["Memo", "Tech"]

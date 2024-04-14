@@ -1,7 +1,7 @@
 ---
 title: "FTPデプロイを自動化する"
 meta_title: ""
-description: "this is meta description"
+description: "FTPデプロイを自動化する"
 date: 2024-03-26T20:19:00Z
 image: "/images/blog-2024032601.png"
 categories: ["Memo", "Tech"]
