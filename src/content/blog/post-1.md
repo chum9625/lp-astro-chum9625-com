@@ -5,7 +5,7 @@ description: "Astroでポートフォリオを兼ねたブログを作る"
 date: 2024-01-21T16:03:00Z
 image: "/images/blog-2024012201.png"
 categories: ["Memo", "Tech"]
-author: "master G"
+author: "25master"
 tags: ["astro", "github"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "robots.txt の書き方"
 date: 2024-04-14T09:45:00Z
 image: ""
 categories: ["Memo", "Tech"]
-author: "master G"
+author: "25master"
 tags: ["seo"]
 draft: false
 ---

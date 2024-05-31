@@ -1,7 +1,7 @@
 ---
-title: "master G"
+title: "25master"
 meta_title: "About"
-description: "master G について"
+description: "25master について"
 image: "/images/avatar.png"
 draft: false
 ---
@@ -20,7 +20,7 @@ Webサイト制作、バナー制作
 -- 取り組んでいるもの --
 
 フレームワークを使った効率的なサイト制作（JavaScript）  
-WordPressテーマ開発（近況は不活性）
+WordPressサイトのメンテナンス
 
 ---
 
