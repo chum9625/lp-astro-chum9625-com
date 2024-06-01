@@ -1,23 +1,23 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "WordPressをローカル環境で簡単に構築できるオープンソースのツール「Studio」"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+description: "WordPressをローカル環境で簡単に構築できるオープンソースのツール「Studio」の、Mac版とWindows版の両方を試す。"
+date: 2024-06-01T13:22:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
-author: "John Doe"
-tags: ["silicon", "technology"]
+categories: ["Memo"]
+author: "25master"
+tags: ["wordpress", "develop"]
 draft: true
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+WordPress環境を構築する「Studio」をインストールしてみた。（Mac版とWindows版）やることはアプリをインストールして数クリックするのみ！
+デモサイト公開も無料で5つまでできるとのこと。※「WordPress.com」のアカウントが必要  
+これは使うしかないでしょ。
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+WordPressのためにDockerもMAMPもXAMPPも不要。
 
-## Creative Design
+最近はメンテナンスばかりで不活性だったWordPressサイト開発。「Studio by WordPress.com」がリリースされたおかげでモチベーションアップ。
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## WordPress.com Developers
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+https://developer.wordpress.com/studio/[https://developer.wordpress.com/studio/]
