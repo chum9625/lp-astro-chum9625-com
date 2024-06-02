@@ -15,12 +15,20 @@ WordPress環境を構築する「Studio」をインストールしてみた。�
 デモサイト公開も無料で5つまでできるとのこと。※「WordPress.com」のアカウントが必要  
 これは使うしかないでしょ。
 
-WordPressのためにDockerもMAMPもXAMPPもLocalも不要な時代になった。なんと言うことでしょう。
-UIや使い方としてはLocalに似ているかな。
+~~ WordPressのためにDockerもMAMPもXAMPPもLOCALも不要な時代になった。 ~~  
+UIや使い方としてはLOCALに似ているかな。
 
 最近はメンテナンスばかりで不活性だったWordPressサイト開発。  
 新し物好きと言うこともあり、「Studio by WordPress.com」がリリースされたおかげでモチベーションアップ。
 
-## WordPress.com Developers
+### WordPress.com Developers
 
-https://developer.wordpress.com/studio/[https://developer.wordpress.com/studio/]
+[https://developer.wordpress.com/studio/](https://developer.wordpress.com/studio/)
+
+### 追記 2024/6/2
+
+Studioのphpバージョンを切り替えたく調査するも情報が見つからないので、結局 LOCAL利用中。。（ありがたやLOCAL）
+
+### LOCAL
+
+[https://localwp.com/](https://localwp.com/)
