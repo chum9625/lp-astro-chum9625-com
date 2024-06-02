@@ -15,7 +15,7 @@ WordPress環境を構築する「Studio」をインストールしてみた。�
 デモサイト公開も無料で5つまでできるとのこと。※「WordPress.com」のアカウントが必要  
 これは使うしかないでしょ。
 
-~~ WordPressのためにDockerもMAMPもXAMPPもLOCALも不要な時代になった。 ~~  
+~~WordPressのためにDockerもMAMPもXAMPPもLOCALも不要な時代になった。~~  
 UIや使い方としてはLOCALに似ているかな。
 
 最近はメンテナンスばかりで不活性だったWordPressサイト開発。  
