@@ -24,7 +24,7 @@ features:
 
   - title: "Demo2"
     image: "/images/service-2.png"
-    content: "WordPressテーマ開発"
+    content: "WordPressサイト開発"
     bulletpoints:
       - "保護猫カフェのサイト"
       - "WordPressサイト"
