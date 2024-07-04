@@ -29,7 +29,7 @@ features:
       - "保護猫カフェのサイト"
       - "WordPressサイト"
     button:
-      enable: false
+      enable: true
       label: "Details"
       link: "/portfolio#demo2"
 

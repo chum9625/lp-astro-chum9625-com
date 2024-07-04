@@ -8,9 +8,7 @@ social:
     icon: FaGithub
     link: https://github.com/chum9625
 
-  - name: twitter
-    icon: FaX
-    link: https://twitter.com/chum9625
+
 
 ---
 
